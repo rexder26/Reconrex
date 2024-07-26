@@ -7,6 +7,7 @@ A Bug Bounty Reconnaissance tool, That Put subdomain enumerating and Asset Disco
 - katana
 - getallurl(gau)
 - waybackurls
+> REMINDER: You have to Install the Above tools to make the tool work.
 # Installation
 ```sh
 $ git clone https://github.com/rexder26/Reconrex.git
@@ -14,7 +15,6 @@ $ cd Reconrex
 $ chmod +x Reconrex.py
 $ sudo mv Reconrex.py /usr/bin
 ```
-
 # Usage
 ```
 ~/temp > $ Reconrex.py example.com
