@@ -17,6 +17,8 @@ $ sudo mv Reconrex.py /usr/bin
 ```
 # Usage
 ```
-~/temp > $ Reconrex.py example.com
+# Create a domains.txt file with list of inscope Domains
+~/temp > $ nano domains.txt
+~/temp > $ Reconrex.py
 Starting subdomain enumeration for example.com...
 ```
